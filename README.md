@@ -66,8 +66,8 @@ We welcome contributions to this repository. You can contribute by:
 - Enhancing documentation
 
 ## Internet Of Things Practicals performed by
-Name: Abdullah Master
-PRN:22070521001
+Name: Abdullah Master  
+PRN:22070521001  
 Sec: A
 
 
