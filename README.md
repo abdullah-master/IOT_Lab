@@ -65,5 +65,11 @@ We welcome contributions to this repository. You can contribute by:
 - Adding new examples
 - Enhancing documentation
 
+## Internet Of Things Practicals performed by
+Name: Abdullah Master
+PRN:22070521001
+Sec: A
+
+
 ## License
 This repository is open-source and available for educational purposes.
