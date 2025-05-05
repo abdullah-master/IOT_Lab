@@ -48,7 +48,7 @@ To set up MQTT communication using Mosquitto and Node-RED, enabling real-time da
 ### 4. Configure Node-RED
 
    - Open Node-RED in your browser: `http://127.0.0.1:1880/`
-   ![Node-RED Interface](https://github.com/dev-abby110/IOT_Practicals/blob/main/img/Screenshot%202025-05-05%20120230.png)
+   ![Node-RED Interface](https://github.com/abdullah-master/IOT_Lab/blob/main/img/cmd-image.png)
 
    - **Set Up MQTT in Node-RED**
      - Drag and drop the Debug node and the MQTT In node onto the workspace.
