@@ -71,7 +71,7 @@ To set up MQTT communication using Mosquitto and Node-RED, enabling real-time da
      - Add an Inject node to send a message.
      - Deploy the flow and test the message transmission.
 
-![Node-RED Flow](https://github.com/dev-abby110/IOT_Practicals/blob/main/img/Screenshot%202025-05-05%20121814.png)
+![Node-RED Flow](https://github.com/abdullah-master/IOT_Lab/blob/main/img/node-red-abd.png)
 
 ## Conclusion
 This experiment demonstrates the integration of MQTT and Node-RED for IoT applications. It highlights the simplicity and efficiency of MQTT for real-time data exchange and the versatility of Node-RED for creating interactive IoT workflows.
